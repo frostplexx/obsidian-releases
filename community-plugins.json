@@ -20972,6 +20972,13 @@
     "repo": "khaldevmedia/obsidian-youtnote"
   },
   {
+    "id": "local-llm-hub",
+    "name": "Local LLM Hub",
+    "author": "TAKESHI MORITA",
+    "description": "Chat with local LLMs (Ollama, LM Studio) with local embeddings RAG, file encryption, edit history, slash commands, and workflow automation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "takeshy/obsidian-local-llm-hub"
+  },
+  {
     "id": "open-in-claude-code",
     "name": "Open in Claude Code",
     "author": "wepee",
@@ -23735,6 +23742,13 @@
     "author": "liuyangart",
     "description": "Canvas AI Plugin - use Gemini AI in Canvas view, support text / image / node generation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "liuyangart/obsidian-canvas-banana"
+  },
+  {
+    "id": "gemini-helper",
+    "name": "Gemini Helper",
+    "author": "TAKESHI MORITA",
+    "description": "AI chat, workflow automation, semantic search (RAG), LLM Wiki (OKF), and dashboards with reading memos powered by Google Gemini. Works on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "takeshy/obsidian-gemini-helper"
   },
   {
     "id": "dropdown-vars",
@@ -33124,13 +33138,6 @@
     "repo": "demartinogiuseppe/antinomia"
   },
   {
-    "id": "mysync",
-    "name": "MySync",
-    "author": "Henrique Manduca",
-    "description": "Sync notes to your home CouchDB database with MySync. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "henriquemanduca/mysync-plugin"
-  },
-  {
     "id": "annoteca",
     "name": "Annoteca",
     "author": "Charles Kelsoe",
@@ -41552,6 +41559,13 @@
     "repo": "pavelpeng7/obsidian-ultra-dashboard"
   },
   {
+    "id": "safe-passage",
+    "name": "SafePassage",
+    "author": "Ji-ho Lee",
+    "description": "A secure, lightweight, and high-performance KeePass integration plugin for Obsidian, featuring WebAssembly Argon2 decryption, masked inline chips, and interactive credential tables. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "search5/safe-passage"
+  },
+  {
     "id": "htmlto-link",
     "name": "Share Page",
     "author": "licc168",
@@ -41860,6 +41874,13 @@
     "repo": "bartekmp/koofr-obsidian-sync"
   },
   {
+    "id": "team-manager",
+    "name": "Team Manager",
+    "author": "Andre Guy Carvalho",
+    "description": "Manage your team: people cards with cadence health, 1:1s with agenda buffers, projects with logs, performance observations, and a universal quick capture. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "andyguy-dot/obsidian-team-manager"
+  },
+  {
     "id": "node-tree-graph",
     "name": "Node Tree Graph",
     "author": "Zheng YUAN",
@@ -42014,6 +42035,13 @@
     "repo": "qkm2000/Scuttlebutt"
   },
   {
+    "id": "notion-pull-lite",
+    "name": "N2O Sync Lite",
+    "author": "Simha",
+    "description": "Import Notion pages and databases into Obsidian: full-fidelity Markdown, properties as frontmatter, and media downloads. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "n2osync/n2o-lite"
+  },
+  {
     "id": "discussion-hub",
     "name": "Discussion Hub",
     "author": "TAKESHI MORITA",
@@ -42026,5 +42054,12 @@
     "author": "Lucy Roh",
     "description": "An Extended Base view with column wrap, top-aligned cells, and transparent background. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lucytheboss/extended-base"
+  },
+  {
+    "id": "folgezettel-navigator",
+    "name": "Folgezettel Navigator",
+    "author": "Niels-Oliver Walkwoski",
+    "description": "Visualize and navigate a Luhmann-style Folgezettel note sequence in a sidebar panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cutuchiqueno/obsidian-folgezettel-navigator"
   }
 ]
